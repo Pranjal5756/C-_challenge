@@ -10,6 +10,7 @@ int main(){
     // double it is used to store float value 
     // bool is used to store boolean value such as 0 and 1;
     //  string is used to store string value such as "pranjal"
+    // const is used to define and store  constant variable and 
 
     int a = 1;
     float b = 2.4;
@@ -17,6 +18,7 @@ int main(){
     double d = b;
     bool e = true;
     string f = "pranjal";
+    const int x = 3
     cout << "a = " <<a <<"\nb = "<< b << c << d << e << f;
 
     return 0;
