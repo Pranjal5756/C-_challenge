@@ -16,6 +16,8 @@ int main() {
     // =	,+=,-=, *=, /=, %=, &=,|=,^=,>>=,<<=
 
     // { &=,|=,^=,>>=,<<= } I have to pratice this ;
+
+    
     cout << "operator";
 
 
